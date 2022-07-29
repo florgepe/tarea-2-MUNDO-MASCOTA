@@ -1,0 +1,36 @@
+
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(237, 231, 227) ;
+}
+
+.header {
+    height: 12vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(255, 166, 43);
+}
+
+.logo{
+    height: 100%;
+    border-radius: 5px ;
+}
+
+.lista-nav {
+    list-style: none;
+    display: flex;
+    gap: 40px;
+}
+
+.a-nav {
+    font-weight: 900;
+}
+
