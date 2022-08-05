@@ -20,8 +20,8 @@ body{
 }
 
 .logo{
-    height: 100%;
-    border-radius: 5px ;
+    height: 180%;
+    border-radius: 7px ;
 }
 
 .lista-nav {
@@ -29,6 +29,13 @@ body{
     display: flex;
     gap: 40px;
 }
+
+.item-nav {
+
+    font-size: 1em;
+}
+
+
 
 .a-nav {
     font-weight: 900;
